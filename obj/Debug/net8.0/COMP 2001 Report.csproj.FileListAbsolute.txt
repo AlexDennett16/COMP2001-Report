@@ -1,0 +1,33 @@
+C:\Users\alexd\source\repos\COMP 2001 Report\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alexd\source\repos\COMP 2001 Report\bin\Debug\net8.0\appsettings.json
+C:\Users\alexd\source\repos\COMP 2001 Report\bin\Debug\net8.0\COMP 2001 Report.exe
+C:\Users\alexd\source\repos\COMP 2001 Report\bin\Debug\net8.0\COMP 2001 Report.deps.json
+C:\Users\alexd\source\repos\COMP 2001 Report\bin\Debug\net8.0\COMP 2001 Report.runtimeconfig.json
+C:\Users\alexd\source\repos\COMP 2001 Report\bin\Debug\net8.0\COMP 2001 Report.dll
+C:\Users\alexd\source\repos\COMP 2001 Report\bin\Debug\net8.0\COMP 2001 Report.pdb
+C:\Users\alexd\source\repos\COMP 2001 Report\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alexd\source\repos\COMP 2001 Report\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alexd\source\repos\COMP 2001 Report\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alexd\source\repos\COMP 2001 Report\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.csproj.AssemblyReference.cache
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.AssemblyInfoInputs.cache
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.AssemblyInfo.cs
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.csproj.CoreCompileInputs.cache
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.sourcelink.json
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\staticwebassets\msbuild.COMP 2001 Report.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\staticwebassets\msbuild.build.COMP 2001 Report.props
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.COMP 2001 Report.props
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.COMP 2001 Report.props
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\scopedcss\bundle\COMP 2001 Report.styles.css
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.csproj.CopyComplete
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.dll
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\refint\COMP 2001 Report.dll
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.pdb
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.genruntimeconfig.cache
+C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\ref\COMP 2001 Report.dll
