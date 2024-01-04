@@ -4,10 +4,27 @@ namespace COMP_2001_Report.Models
 {
     public class Users
     {
-        public int Id { get; internal set; }
-        public required string UserName { get; set; }
-        public required string Password { get; set; }
-        public required string Email { get; set; }
-        
+        public int user_id { get; internal set; }
+        public required string? username { get; set; }
+        public required string? password { get; set; }
+        public required string? email { get; set; }
+
     }
+
+    public class UserModel
+    {
+        public required string? username { get; set; }
+        public required string? password { get; set; }
+        public required string? email { get; set; }
+    }
+
+    public class Archive_User
+    {
+        public required int archive_user_id { get; set; }
+        public required string? username { get; set; }
+        public required string? password { get; set; }
+        public required string? email { get; set; }
+    }
+
 }
+
