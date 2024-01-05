@@ -134,5 +134,4 @@ C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\refint\COMP 2001 R
 C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.pdb
 C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.genruntimeconfig.cache
 C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\ref\COMP 2001 Report.dll
-C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.RazorAssemblyInfo.cache
-C:\Users\alexd\source\repos\COMP 2001 Report\obj\Debug\net8.0\COMP 2001 Report.RazorAssemblyInfo.cs
+C:\Users\alexd\source\repos\COMP 2001 Report\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

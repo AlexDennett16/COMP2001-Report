@@ -1,5 +1,3 @@
-using System;
-
 namespace COMP_2001_Report.Models
 {
     public class Users

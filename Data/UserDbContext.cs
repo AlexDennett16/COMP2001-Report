@@ -1,7 +1,5 @@
 ﻿using COMP_2001_Report.Models;
 using Microsoft.EntityFrameworkCore;
-using System.Diagnostics;
-using System.Reflection.Emit;
 
 namespace COMP_2001_Report.Data
 {
