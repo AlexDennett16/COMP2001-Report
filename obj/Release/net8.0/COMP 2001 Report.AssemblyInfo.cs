@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("COMP 2001 Report")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d5bc5568d619a3f47358b9f48ac268850338754")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2726ffbd2abfe1721e616b184739c3268634840d")]
 [assembly: System.Reflection.AssemblyProductAttribute("COMP 2001 Report")]
 [assembly: System.Reflection.AssemblyTitleAttribute("COMP 2001 Report")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
