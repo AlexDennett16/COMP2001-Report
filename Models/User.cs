@@ -25,6 +25,11 @@ namespace COMP_2001_Report.Models
         public required string? password { get; set; }
         public required string? email { get; set; }
     }
+    public class LoginRequestModel
+    {
+        public string email { get; set; }
+        public string password { get; set; }
+    }
 
 }
 

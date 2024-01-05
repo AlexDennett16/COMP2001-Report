@@ -1,4 +1,5 @@
 ﻿using System.Text;
+using System.Text.Json;
 
 namespace COMP_2001_Report.Services
 {
@@ -23,7 +24,7 @@ namespace COMP_2001_Report.Services
                 password
             };
 
-            var jsonPayload = Newtonsoft.Json.JsonConvert.SerializeObject(payload);
+            var jsonPayload = JsonSerializer.Serialize(payload);
             var content = new StringContent(jsonPayload, Encoding.UTF8, "application/json");
 
 
@@ -41,3 +42,4 @@ namespace COMP_2001_Report.Services
 
         }
     }
+}
