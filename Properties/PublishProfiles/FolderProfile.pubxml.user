@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\alexd\Downloads\API</_PublishTargetUrl>
-    <History>True|2024-01-05T15:42:53.3361535Z;</History>
+    <History>False|2024-01-05T16:15:40.0585616Z;True|2024-01-05T15:42:53.3361535+00:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

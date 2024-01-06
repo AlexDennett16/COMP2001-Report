@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\alexd\Downloads\API</_PublishTargetUrl>
+    <History>True|2024-01-06T17:57:57.1327469Z;False|2024-01-06T17:57:34.0529542+00:00;True|2024-01-05T23:45:04.3555466+00:00;True|2024-01-05T23:40:57.9791162+00:00;True|2024-01-05T23:34:30.9605648+00:00;True|2024-01-05T21:27:27.9262102+00:00;True|2024-01-05T21:16:29.8625904+00:00;False|2024-01-05T21:15:17.0910349+00:00;False|2024-01-05T21:14:47.7917957+00:00;False|2024-01-05T21:12:09.8307427+00:00;True|2024-01-05T20:59:39.2635903+00:00;True|2024-01-05T20:09:29.6513743+00:00;True|2024-01-05T18:02:29.8337974+00:00;True|2024-01-05T17:27:03.3919037+00:00;True|2024-01-05T17:16:25.2099842+00:00;True|2024-01-05T17:13:00.3371064+00:00;True|2024-01-05T16:40:09.2755848+00:00;False|2024-01-05T16:35:58.5449036+00:00;False|2024-01-05T16:35:28.0597072+00:00;True|2024-01-05T16:16:35.9369139+00:00;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=dist-6-505.uopnet.plymouth.ac.uk%3bDatabase=COMP2001_ADennett%3bUser ID=ADennett%3bPassword=AnyQ870%2a%3bTrustServerCertificate=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
