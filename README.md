@@ -1,6 +1,9 @@
 # COMP 2001 Report 
 ## This project is an ASP.NET Core API Micro-Service
 ### The App
+The code is hosted on a web server accessable here:
+https://web.socem.plymouth.ac.uk/COMP2001/adennett/swagger/index.html
+
 This is a Trail and Wellbeing Application designed to track users walks in and around nature. The scope of this project is to collect store and view user details relevant to their profile (such as a username, email and password).  
 This is along with an accompaning report to detail the Legal, Social, Ethical and Professional (LSEP) issues that are accompanied with storing sensitive user data, as well as internet communication of this data. 
 
