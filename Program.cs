@@ -14,10 +14,10 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+//Swagger should be ued in dev and prod
 app.UseSwagger();
 app.UseSwaggerUI();
 
-//app.UseHttpsRedirection();
 
 app.MapControllers();
 

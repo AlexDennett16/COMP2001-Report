@@ -5,6 +5,7 @@ using System.Text;
 
 namespace COMP_2001_Report.Controllers
 {
+    //This class is used as a basic authentification, although it is weak and should be exchanged for JWT Tokens
     public static class UserRoleStorageSingleton
     {
         public static string? userRole { get; set; }
@@ -60,7 +61,7 @@ namespace COMP_2001_Report.Controllers
                         UserRoleStorageSingleton.userRole = role;
 
 
-
+                        //Tell user they are logged on, and what role they hold
                         return Ok("Successful sign-on as a " + role);
                     }
                     else
@@ -131,7 +132,7 @@ namespace COMP_2001_Report.Controllers
                 {
                     return NotFound();
                 }
-
+                //If user is requesting a public file show them the same as anyone else would see, if they request themselves, show relevant safe info
                 if (userType == null || userEmail == null)
                 {
                     return BadRequest("Please Login!");
@@ -205,6 +206,7 @@ namespace COMP_2001_Report.Controllers
 
                 var existingUser = _dbContext.Users.Find(id);
 
+                //Simple (and insecure) check to prevent edits of other peoples profiles
                 if (userEmail != existingUser.email)
                 {
                     return BadRequest("You're not logged into this account, and so cannot edit it!");
@@ -243,7 +245,7 @@ namespace COMP_2001_Report.Controllers
 
                 var userToDelete = _dbContext.Users.Find(id);
 
-                
+                //Create user out of previous details for archiving
                 var archiveUser = new Archive_User
                 {
                     archive_user_id = userToDelete.user_id,
@@ -252,6 +254,7 @@ namespace COMP_2001_Report.Controllers
                     password = userToDelete.password,
                 };
 
+                //archiving of user by nulling user values
                 userToDelete.username = null;
                 userToDelete.password = null;
                 userToDelete.email = null;
@@ -305,7 +308,7 @@ namespace COMP_2001_Report.Controllers
             {
                 if (userType != "admin")
                 {
-                    return BadRequest("You do not have the priveldges to do this action!");
+                    return BadRequest("You do not have the privledges to do this action!");
                 }
 
                 var archivedUser = _dbContext.ArchiveUser.Find(id);
